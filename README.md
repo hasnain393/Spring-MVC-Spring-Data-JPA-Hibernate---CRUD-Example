@@ -20,3 +20,5 @@ END;
 
 Reference #https://www.codejava.net/frameworks/spring/spring-mvc-spring-data-jpa-hibernate-crud-example
 Reference #https://www.youtube.com/watch?v=JfeCmn8NT88&feature=youtu.be
+
+JPA Query-jpql for search
